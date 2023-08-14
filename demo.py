@@ -1,1 +1,2 @@
-hello this is the project 
+print("hello this is the project")
+
